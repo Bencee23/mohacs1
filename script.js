@@ -1,0 +1,1 @@
+document.getElementById('gyoztes').addEventListener('click', function() { alert('A török sereg :(');});

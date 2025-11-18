@@ -1,0 +1,16 @@
+body{
+    background-image: url("../nagyharsanyi-csata.png");
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-position: auto;
+    background-size: cover;
+    text-align: center;
+}
+#fejlec{
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+#soveg{
+font-size: x-large;
+}
